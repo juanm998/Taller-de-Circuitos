@@ -1,0 +1,12 @@
+* BC560C - created March 2, 2011 copyright Cordell Audio
+.MODEL BC560C pnp
++IS=60e-15	BF=900 		VAF=160
++IKF=0.10	ISE=70e-15	NE=1.42		NF=1
++RB=170		RC=1.0		RE=0.05
++CJE=19e-12 	MJE=0.3		VJE=0.75
++CJC=3.9e-12	MJC=0.3		VJC=0.75	FC=0.5
++TF=600e-12 	XTF=7 		VTF=4		ITF=0.45
++TR=10e-9	BR=3		IKR=0
++EG=1.1 	XTB=1.5		XTI=3		NC=2
++ISC=0		mfg=CA030211
+*
